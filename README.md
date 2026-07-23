@@ -6,7 +6,7 @@ My work combines automated web scraping, corpus linguistics, and Natural Languag
 
 I use 'spaCy', `NLTK', Corpus Analysis Tools (AntConc, LancsBox) to do Critical Discourse Analysis (CDA) of large datasets to uncover systemic framing, agency, and ideological patterns.
 
-I am also interested in Critical Digital Literacy and currently doing a project to observe patterns and meanings in Language teacher-AI interaction.
+I am also interested in Critical Digital Literacy and currently doing a project to observe patterns and meanings in Language Teacher-AI Interaction.
 
 I'll be uploading some smaller projects, experiments, and things I am currently working on. 
 
