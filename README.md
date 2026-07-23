@@ -22,13 +22,6 @@ Text Processing & NLP: 'spaCy', 'nltk', Corpus Analysis Tools (AntConc, LancsBox
 Methods: Critical Discourse Analysis (CDA), Corpus-Assisted Discourse Studies (CADS), Qualitative Coding
 
 
-# A Bit About Me
-
-I like reading fiction and consuming a lot of random stuff 
-I can stay for days without talking to anyone
-I like TV shows more than movies
-
-
 
 
 
