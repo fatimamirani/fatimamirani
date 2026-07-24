@@ -1,10 +1,10 @@
 Hi, I'm Fatima Mirani 👋
  
-Computational & Applied Linguistics Researcher** | Focus on NLP, Corpus Linguistics, Media Discourse, and Critical Digital Literacy
+Computational & Applied Linguistics Researcher | Focus on NLP, Corpus Linguistics, Media Discourse, and Critical Digital Literacy
 
 My work combines corpus linguistics and Natural Language Processing (NLP) to perform data-driven textual analysis at scale. 
 
-I'll be uploading some smaller projects, experiments, and things I am currently working on. 
+I'll be uploading some smaller projects, experiments, and things I am currently working on here. 
 
 I also upload insights from my projects on [Substack](https://substack.com/home/post/p-166887617)
 
