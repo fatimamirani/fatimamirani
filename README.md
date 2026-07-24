@@ -2,7 +2,7 @@ Hi, I'm Fatima Mirani 👋
  
 I am an MPhil Scholar in Linguistics and I bridge computational tools with qualitative language research. 
 
-My work combines automated web scraping, corpus linguistics, and Natural Language Processing (NLP) to perform data-driven textual analysis at scale.
+My work combines automated corpus linguistics and Natural Language Processing (NLP) to perform data-driven textual analysis at scale. 
 
 I use 'spaCy', `NLTK', Corpus Analysis Tools (AntConc, LancsBox) to do Critical Discourse Analysis (CDA) of large datasets to uncover systemic framing, agency, and ideological patterns.
 
@@ -33,7 +33,20 @@ Methods: Critical Discourse Analysis (CDA), Corpus-Assisted Discourse Studies (C
 * Processed text corpora using **`spaCy`** and **AntConc** to analyze grammatical agency, passive construction usage, and transitivity patterns in news coverage.
 * Combined statistical frequency/collocation insights with Critical Discourse Analysis (CDA) to evaluate subtle ideological framing.
 
+## [An Intra-Family Intergenerational Phonological Case Study of Sindhi Implosives](https://github.com/fatimamirani/Intra-Family-Intergenerational-Phonological-Case-Study-Sindhi-Implosives-)
+* A sociolinguistic and phonetic investigation into intergenerational sound change and language shift.
+* Conducted fieldwork and phonetic recordings across generations within a Sindhi-speaking household to evaluate the acoustic retention of voiced implosives (/ɓ, ɗ, ʄ, ɠ/)
+* Utilized International Phonetic Alphabet (IPA) transcription and thematic analysis (Braun & Clarke) to map how digital media, language contact, and peer socialization   drive articulatory fossilization and heritage language attrition.
 
+## [Agentive Practices of Novice ESL Teachers Interacting with Generative AI](https://github.com/fatimamirani/Agentive-Strategies-in-GenAI-Interaction)
+* A qualitative inquiry into how Global South educators negotiate cultural identity against Eurocentric LLM bias.
+* Operationalizing Ron Darvin’s (2025) GenAI Investment Model and Bonny Norton’s identity framework to examine how teachers counter-prompt and localize West-centric AI lesson plans.
+* Analyzing teacher-AI chat logs and stimulated recall interviews to categorize socio-pragmatic, nominal, and situational modifications that protect student cultural identity.
+
+## [Teacher Agency in Emergency Remote Teaching (ERT): East Asian EFL Review](https://github.com/fatimamirani/Review-on-Teacher-Agency-in-Emergency-Remote-Teaching-ERT-)
+* A critical review synthesising teacher agency, emotional vulnerability, and CALL integration during institutional crisis.
+* Synthesized longitudinal case studies and duoethnographies across China, South Korea, and Japan through an ecological agency framework (Priestley et al.; Biesta et al.).
+* Evaluated how core pedagogical beliefs and reflexive practices (reflective journaling, sketching) enable educators to convert institutional disruption into long-term digital pedagogical tools[cite: 3].
 
 
 
