@@ -20,12 +20,12 @@ Methods: Critical Discourse Analysis (CDA), Corpus-Assisted Discourse Studies (C
 
 # Highlighted Research & Open-Source Projects
 
-##  [Selenium Dawn Scraper](https://github.com/fatimamirani/selenium-dawn-scraper)
+## 📌 [Selenium Dawn Scraper](https://github.com/fatimamirani/selenium-dawn-scraper)
 *An automated pipeline for gathering news media archives for longitudinal language analysis.*
 * Built an automated web scraping pipeline using **Selenium** and **Python** to extract news articles, metadata, and body text.
 * Designed output structures to convert unstructured news data into structured, machine-readable datasets for corpus analysis.
 
-## [Linguistic Analysis: Honor Killings Media Discourse](https://github.com/fatimamirani/honour-killings-linguistic-analysis/blob/main/README.md)
+## 📌 [Linguistic Analysis: Honor Killings Media Discourse](https://github.com/fatimamirani/honour-killings-linguistic-analysis/blob/main/README.md)
 *A corpus-assisted critical discourse analysis of media framing and agency in reporting.*
 * Processed text corpora using **`spaCy`** and **AntConc** to analyze grammatical agency, passive construction usage, and transitivity patterns in news coverage.
 * Combined statistical frequency/collocation insights with Critical Discourse Analysis (CDA) to evaluate subtle ideological framing.
